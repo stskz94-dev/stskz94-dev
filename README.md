@@ -17,3 +17,16 @@
 <a href="https://html.spec.whatwg.org/multipage/"><img src="./images/icon_html5.svg" height="35" alt="HTML5"></a>
 &nbsp;
 <a href="https://www.w3.org/Style/CSS/"><img src="./images/icon_css3.svg" height="35" alt="CSS3"></a>
+
+### Инструменты:
+
+<a href="https://www.figma.com/"><img src="./images/icon_figma.svg" height="35" alt="Figma"></a>
+&nbsp;
+<a href="https://www.adobe.com/ru/products/photoshop.html"><img src="./images/icon_adobe-photoshop.svg" height="35" alt="Adobe Photoshop"></a>
+&nbsp;
+<a href="https://www.adobe.com/ru/products/illustrator.html"><img src="./images/icon_adobe-illustrator.svg" height="35" alt="Adobe Illustrator"></a>
+
+### Контакты:
+
+- ✉️ Вы можете связаться со мной по [stskz94@gmail.com](mailto:stskz94@gmail.com)
+- 🔗 Telegram: [@stskz94](https://t.me/stskz94)
