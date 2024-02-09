@@ -1,8 +1,8 @@
 <h1 align="center">Привет, я Сергей <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"></h1>
 
-### Я-разработчик
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&duration=3000&width=500&height=30&color=36bcf7&lines=%D0%AF-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
 
-### Мои правила:
+### ℹ️ Мои правила:
 
 - ✍🏻 Писать понятный код, который легко развивать и поддерживать
 - 👨🏻‍💻 Эффективно работать в команде
@@ -10,7 +10,7 @@
 - ⏰ Планировать и соблюдать реальные сроки разработки
 - 🎯 Добиваться своих целей в работе и личной жизни
 
-### Технологии:
+### 💻 Технологии:
 
 <a href="https://git-scm.com/"><img src="./images/icon_git.svg" height="35" alt="Git"></a>
 &nbsp;
@@ -18,7 +18,7 @@
 &nbsp;
 <a href="https://www.w3.org/Style/CSS/"><img src="./images/icon_css3.svg" height="35" alt="CSS3"></a>
 
-### Инструменты:
+### 🛠 Инструменты:
 
 <a href="https://www.figma.com/"><img src="./images/icon_figma.svg" height="35" alt="Figma"></a>
 &nbsp;
@@ -26,7 +26,7 @@
 &nbsp;
 <a href="https://www.adobe.com/ru/products/illustrator.html"><img src="./images/icon_adobe-illustrator.svg" height="35" alt="Adobe Illustrator"></a>
 
-### Контакты:
+### 📱 Контакты:
 
 - ✉️ Вы можете связаться со мной по [stskz94@gmail.com](mailto:stskz94@gmail.com)
 - 🔗 Telegram: [@stskz94](https://t.me/stskz94)
