@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Сергей <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=17&weight=600&duration=3000&width=500&height=30&color=36bcf7&lines=%D0%AF-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=17&weight=600&duration=3000&width=500&height=30&color=36bcf7&lines=%D0%AF-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://github.com/stskz94-dev)
 
 ### ℹ️ Мои правила:
 
@@ -16,7 +16,13 @@
 &nbsp;
 <a href="https://html.spec.whatwg.org/multipage/"><img src="./images/icon_html5.svg" height="35" alt="HTML5"></a>
 &nbsp;
-<a href="https://www.w3.org/Style/CSS/"><img src="./images/icon_css3.svg" height="35" alt="CSS3"></a>
+<a href="https://www.w3.org/Style/CSS/Overview.ru.html"><img src="./images/icon_css3.svg" height="35" alt="CSS3"></a>
+&nbsp;
+<a href="https://learn.javascript.ru/"><img src="./images/icon_javascript.svg" height="35" alt="JavaScript"></a>
+&nbsp;
+<a href="https://nodejs.org/en"><img src="./images/icon_node.js.svg" height="35" alt="Node.js"></a>
+&nbsp;
+<a href="https://react.dev/"><img src="./images/icon_react.svg" height="35" alt="React"></a>
 
 ### 🛠 Инструменты:
 
