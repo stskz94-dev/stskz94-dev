@@ -22,7 +22,11 @@
 &nbsp;
 <a href="https://nodejs.org/en"><img src="./images/icon_node.js.svg" height="35" alt="Node.js"></a>
 &nbsp;
+<a href="https://webpack.js.org/"><img src="./images/icon_webpack.svg" height="35" alt="Webpack"></a>
+&nbsp;
 <a href="https://react.dev/"><img src="./images/icon_react.svg" height="35" alt="React"></a>
+&nbsp;
+<a href="https://gulpjs.com/"><img src="./images/icon_gulp.svg" height="35" alt="Gulp"></a>
 
 ### 🛠 Инструменты:
 
