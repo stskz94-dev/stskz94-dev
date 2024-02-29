@@ -31,6 +31,8 @@
 <a href="https://sass-lang.com/"><img src="./images/icon_sass.svg" height="35" alt="Sass"></a>
 &nbsp;
 <a href="https://www.python.org/"><img src="./images/icon_python.svg" height="35" alt="Python"></a>
+&nbsp;
+<a href="https://www.djangoproject.com/"><img src="./images/icon_django.svg" height="35" alt="Django"></a>
 
 ### 🛠 Инструменты:
 
