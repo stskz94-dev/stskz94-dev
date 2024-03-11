@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Сергей <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&weight=600&duration=3000&width=550&height=30&color=36bcf7&lines=Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://github.com/stskz94-dev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&weight=600&duration=3000&width=250&height=30&color=36bcf7&lines=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://github.com/stskz94-dev)
 
 ### ℹ️ Мои правила:
 
@@ -33,6 +33,8 @@
 <a href="https://www.python.org/"><img src="./images/icon_python.svg" height="35" alt="Python"></a>
 &nbsp;
 <a href="https://www.djangoproject.com/"><img src="./images/icon_django.svg" height="35" alt="Django"></a>
+&nbsp;
+<a href="https://sqlite.org/"><img src="./images/icon_sqlite.svg" height="35" alt="SQLite"></a>
 
 ### 🛠 Инструменты:
 
