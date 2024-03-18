@@ -26,12 +26,18 @@
 &nbsp;
 <a href="https://react.dev/"><img src="./images/icon_react.svg" height="35" alt="React"></a>
 &nbsp;
+<a href="https://expressjs.com/"><img src="./images/icon_express.svg" height="35" alt="Express"></a>
+&nbsp;
+<a href="https://www.postman.com/"><img src="./images/icon_postman.svg" height="35" alt="Postman"></a>
+&nbsp;
+<a href="https://www.mongodb.com/"><img src="./images/icon_mongodb.svg" height="35" alt="MongoDB"></a>
+<br>
 <a href="https://gulpjs.com/"><img src="./images/icon_gulp.svg" height="35" alt="Gulp"></a>
 &nbsp;
 <a href="https://sass-lang.com/"><img src="./images/icon_sass.svg" height="35" alt="Sass"></a>
 &nbsp;
 <a href="https://www.python.org/"><img src="./images/icon_python.svg" height="35" alt="Python"></a>
-<br>
+&nbsp;
 <a href="https://www.djangoproject.com/"><img src="./images/icon_django.svg" height="35" alt="Django"></a>
 &nbsp;
 <a href="https://sqlite.org/"><img src="./images/icon_sqlite.svg" height="35" alt="SQLite"></a>
